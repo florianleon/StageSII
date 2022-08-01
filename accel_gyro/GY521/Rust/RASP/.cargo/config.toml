@@ -1,0 +1,7 @@
+[build]
+target = "aarch64-unknown-linux-gnu"
+
+[alias]
+rb = "run --bin"
+rrb = "run --release --bin"
+cb = "check --bin"

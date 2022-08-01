@@ -1,0 +1,7 @@
+[build]
+target = "aarch64-unknown-linux-gnu"
+
+[alias]
+re = "run --examples"
+rre = "run --release --examples"
+ce = "check --examples"

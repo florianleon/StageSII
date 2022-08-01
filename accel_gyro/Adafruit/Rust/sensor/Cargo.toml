@@ -1,0 +1,25 @@
+[package]
+authors = ["florian.leon <florian.leon@sii.fr>"]
+name = "adafruit_nxp"
+description = "Driver for Adafruit Precision NXP 9-DOF Breakout Board - FXOS8700 + FXAS21002 modules"
+version = "0.1.3"
+edition = "2021"
+license = "0BSD"
+readme = "README.md"
+exclude = ["/.cargo", "/.vscode", "*.code-workspace", "*.json"]
+keywords = ["no-std", "adafruit", "FXOS8700", "FXAS21002C", "embedded"]
+categories = ["embedded", "no-std", "hardware-support"]
+repository = "https://github.com/SII-Public-Research/Adafruit_NXP"
+
+[dependencies.embedded-hal]
+version = "0.2.7"
+
+[dependencies.nalgebra]
+version = "0.31.0"
+default-features = false
+features = ["libm-force"]
+
+[dev-dependencies.rppal]
+version = "0.13.1"
+features = ["hal"]
+

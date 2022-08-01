@@ -1,0 +1,15 @@
+[package]
+authors = ["florian.leon <florian.leon@sii.fr>"]
+name = "gy521"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mpu6050 = "0.1.5"
+micromath = "2.0.0"
+nalgebra = "0.30.1"
+rppal = { version = "0.13.1", features = ["hal"] }
+embedded-hal = "0.2.7"
+rand = "0.8.5"

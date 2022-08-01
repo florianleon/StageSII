@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../ROS_DEMO/ros"
+		}
+	],
+	"settings": {}
+}
