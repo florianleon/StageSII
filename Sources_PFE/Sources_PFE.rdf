@@ -1,0 +1,660 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <z:Attachment rdf:about="#item_1">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1/MPU-6000-Datasheet1.pdf"/>
+        <dc:title>MPU-6000-Datasheet1.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-28 13:10:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.futura-sciences.com/tech/questions-reponses/smartphone-fonctionne-accelerometre-smartphone-14429/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Futura</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deluzarche</foaf:surname>
+                        <foaf:givenName>Céline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3"/>
+        <dc:title>Comment fonctionne l'accéléromètre d'un smartphone ?</dc:title>
+        <dcterms:abstract>Il existe de nombreux types d’accéléromètres en fonction des usages (airbags de voitures, contrôle industriel, sismologie, lanceur spatial…). Ceux des téléphones mobiles fonctionnent généralement...</dcterms:abstract>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.futura-sciences.com/tech/questions-reponses/smartphone-fonctionne-accelerometre-smartphone-14429/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-28 13:30:35</dcterms:dateSubmitted>
+        <dc:description>Section: smartphone</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3/smartphone-fonctionne-accelerometre-smartphone-14429.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.futura-sciences.com/tech/questions-reponses/smartphone-fonctionne-accelerometre-smartphone-14429/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-28 13:30:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.sensel-measurement.fr/fr/14-accelerometre">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_5"/>
+        <dc:title>Accéléromètre | Capteur d'accélération</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sensel-measurement.fr/fr/14-accelerometre</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-28 13:37:27</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/5/14-accelerometre.html"/>
+        <dc:title>Accéléromètre | Capteur d'accélération</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sensel-measurement.fr/fr/14-accelerometre</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-28 13:37:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://howtomechatronics.com/how-it-works/electrical-engineering/mems-accelerometer-gyrocope-magnetometer-arduino/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>How To Mechatronics</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_7"/>
+        <dc:title>What is MEMS? Accelerometer, Gyroscope &amp; Magnetometer with Arduino</dc:title>
+        <dcterms:abstract>In this article we will learn how the MEMS accelerometer, gyroscope and magnetometer work and how to use them with the Arduino Board. MEMS accelerometer...</dcterms:abstract>
+        <dc:date>2015-11-19T00:52:22+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>What is MEMS?</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://howtomechatronics.com/how-it-works/electrical-engineering/mems-accelerometer-gyrocope-magnetometer-arduino/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-28 13:45:42</dcterms:dateSubmitted>
+        <dc:description>Running Time: 598</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/mems-accelerometer-gyrocope-magnetometer-arduino.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://howtomechatronics.com/how-it-works/electrical-engineering/mems-accelerometer-gyrocope-magnetometer-arduino/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-28 13:45:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://fr.farnell.com/invensense/mpu-6050/gyroscope-accelero-6-axes-i2c/dp/1864742">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>MPU-6050 - Module MEMS, Série MotionTracking, Gyroscope/Accéléromètre 3 axes, ±16g, 2,375 V à 3,46 V, QFN-24</dc:title>
+        <dcterms:abstract>Le MPU-6050 intègre MotionFusion et run-time calibration Firmware de InvenSense qui permet aux fabricants d'éliminer les étapes coûteuses et complexe, de selection, de qualification et d'intégration au niveau du système de dispositifs discrets dans les produits activé par mouvement, et garantit que les algorithmes de fusion de capteurs et procédures d'étalonnage fournissent des performances optimale pour les consommateurs. Le MPU-6050 associe un gyroscope 3 axes et un accéléromètre 3 axes sur le même die en silicium avec un processeur DMP (Digital Motion Processor) intégré capable de traiter des algorithmes de fusion de mouvements complexes sur 9 axes. Les algorithmes de fusion de mouvements à 9 axes intégrés accèdent aux magnétomètres externes ou aux autres capteurs via un bus I2C maître auxiliaire, permettant aux composants de collecter un ensemble complet de données de capteur sans intervention du processeur système.</dcterms:abstract>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fr.farnell.com/invensense/mpu-6050/gyroscope-accelero-6-axes-i2c/dp/1864742</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-01 08:30:44</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Data rdf:about="https://github.com/RobTillaart/GY521">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tillaart</foaf:surname>
+                        <foaf:givenName>Rob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>acceleration</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>arduino</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>gyro</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>GY521</dc:title>
+        <dcterms:abstract>Arduino library for GY521  accelerometer- gyroscope a.k.a. MCU-6050</dcterms:abstract>
+        <dc:date>2021-12-18T17:11:37Z</dc:date>
+        <z:libraryCatalog>GitHub</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/RobTillaart/GY521</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-01 08:41:36</dcterms:dateSubmitted>
+        <dc:rights>MIT</dc:rights>
+        <dc:description>original-date: 2020-07-09T20:08:19Z</dc:description>
+        <z:programmingLanguage>C++</z:programmingLanguage>
+    </bib:Data>
+    <bib:Document rdf:about="https://novatel.com/solutions/attitude">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>Attitude</dc:title>
+        <dcterms:abstract>Provides information about an object's orientation with respect to the horizontal plane and true north</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://novatel.com/solutions/attitude</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 08:44:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/attitude.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://novatel.com/solutions/attitude</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 08:44:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/79874525.pdf"/>
+        <dc:title>Quelques considérations sur le filtre de Kalman discret</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://core.ac.uk/download/pdf/79874525.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 09:19:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/79874525.pdf"/>
+        <dc:title>79874525.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://core.ac.uk/download/pdf/79874525.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 09:19:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://www.ferdinandpiette.com/blog/2011/04/le-filtre-de-kalman-interets-et-limites/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_15"/>
+        <dc:title>Le filtre de Kalman : intérêts et limites » Sciences et Techniques</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ferdinandpiette.com/blog/2011/04/le-filtre-de-kalman-interets-et-limites/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 09:24:02</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/le-filtre-de-kalman-interets-et-limites.html"/>
+        <dc:title>Le filtre de Kalman : intérêts et limites » Sciences et Techniques</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ferdinandpiette.com/blog/2011/04/le-filtre-de-kalman-interets-et-limites/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 09:24:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.insee.fr/fr/metadonnees/definition/c2091">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_17"/>
+        <dc:title>Définition - Moyenne mobile | Insee</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.insee.fr/fr/metadonnees/definition/c2091</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 15:37:57</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17/c2091.html"/>
+        <dc:title>Définition - Moyenne mobile | Insee</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.insee.fr/fr/metadonnees/definition/c2091</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 15:38:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://splac.fr/filtrage-numerique-dun-signal-application-a-arduino/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Splac</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_19"/>
+        <dc:title>Filtrage numérique d’un signal : application à Arduino</dc:title>
+        <dcterms:abstract>Comment filtrer un signal numérique avec Arduino ? Méthodes mathématiques simples, exemples d'équations et demonstrations graphiques.</dcterms:abstract>
+        <dc:date>2020-08-31T21:15:31+00:00</dc:date>
+        <z:language>fr-FR</z:language>
+        <z:shortTitle>Filtrage numérique d’un signal</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://splac.fr/filtrage-numerique-dun-signal-application-a-arduino/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 15:46:15</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/filtrage-numerique-dun-signal-application-a-arduino.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://splac.fr/filtrage-numerique-dun-signal-application-a-arduino/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-07 15:46:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.hotmcu.com/gy521-mpu6050-3axis-acceleration-gyroscope-6dof-module-p-83.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_21"/>
+        <dc:title>GY-521 MPU6050 3-Axis Acceleration Gyroscope 6DOF Module</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.hotmcu.com/gy521-mpu6050-3axis-acceleration-gyroscope-6dof-module-p-83.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-28 09:35:31</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/gy521-mpu6050-3axis-acceleration-gyroscope-6dof-module-p-83.html"/>
+        <dc:title>GY-521 MPU6050 3-Axis Acceleration Gyroscope 6DOF Module [GY-521] - US $1.40 : HAOYU Electronics : Make Engineers Job Easier</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.hotmcu.com/gy521-mpu6050-3axis-acceleration-gyroscope-6dof-module-p-83.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-28 09:35:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.adafruit.com/product/3463">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Industries</foaf:surname>
+                        <foaf:givenName>Adafruit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_23"/>
+        <dc:title>Adafruit Precision NXP 9-DOF Breakout Board</dc:title>
+        <dcterms:abstract>The NXP Precision 9DoF breakout combines two of the best motion sensors we&amp;#39;ve tested here at Adafruit: The FXOS8700 3-Axis accelerometer and magnetometer, and the FXAS21002 3-axis  ...</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.adafruit.com/product/3463</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-28 13:25:00</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/3463.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.adafruit.com/product/3463</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-28 13:25:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.az-delivery.de/fr/products/esp32-developmentboard">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>AZ-Delivery</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_25"/>
+        <dc:title>ESP32 NodeMCU Module WLAN WiFi Development Board avec CP2102 (modèle successeur de ESP8266) compatible avec Arduino</dc:title>
+        <dcterms:abstract>Commande en ligne esp32 nodemcu, bon marché, livraison rapide.Az - delivery.de données, projets, agrafes, livres électroniques, etc.</dcterms:abstract>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.az-delivery.de/fr/products/esp32-developmentboard</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-28 13:36:13</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/esp32-developmentboard.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.az-delivery.de/fr/products/esp32-developmentboard</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-28 13:36:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.st.com/en/microcontrollers-microprocessors/stm32f401re.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_27"/>
+        <dc:title>STM32F401RE - STM32 Dynamic Efficiency MCU, Arm Cortex-M4 core with DSP and FPU, up to 512 Kbytes of Flash memory, 84 MHz CPU, Art Accelerator - STMicroelectronics</dc:title>
+        <dcterms:abstract>STM32F401RE - STM32 Dynamic Efficiency MCU, Arm Cortex-M4 core with DSP and FPU, up to 512 Kbytes of Flash memory, 84 MHz CPU, Art Accelerator, STM32F401RET7, STM32F401RET6TR, STM32F401RET6, STMicroelectronics</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.st.com/en/microcontrollers-microprocessors/stm32f401re.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-29 08:30:20</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/27/stm32f401re.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.st.com/en/microcontrollers-microprocessors/stm32f401re.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-29 08:30:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Raspberry Pi</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ltd</foaf:surname>
+                        <foaf:givenName>Raspberry Pi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>Buy a Raspberry Pi 4 Model B</dc:title>
+        <dcterms:abstract>Your tiny, dual-display, desktop computer
+…and robot brains, smart home hub, media centre, networked AI core, factory controller, and much more.</dcterms:abstract>
+        <z:language>en-GB</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.raspberrypi.com/products/raspberry-pi-4-model-b/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-29 09:12:06</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/31/raspberry-pi-4-model-b.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.raspberrypi.com/products/raspberry-pi-4-model-b/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-29 09:12:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.fierceelectronics.com/components/compensating-for-tilt-hard-iron-and-soft-iron-effects">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_354"/>
+        <dc:title>Compensating for Tilt, Hard-Iron, and Soft-Iron Effects | Fierce Electronics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.fierceelectronics.com/components/compensating-for-tilt-hard-iron-and-soft-iron-effects</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 08:36:30</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_354">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/354/compensating-for-tilt-hard-iron-and-soft-iron-effects.html"/>
+        <dc:title>Compensating for Tilt, Hard-Iron, and Soft-Iron Effects | Fierce Electronics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.fierceelectronics.com/components/compensating-for-tilt-hard-iron-and-soft-iron-effects</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 08:36:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://drive.google.com/file/d/1rdr71fel9zrHVMBo07xaHMUJ6nhjiN6i/view?usp=sharing&amp;usp=embed_facebook">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Google Docs</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_356"/>
+        <dc:title>Architecture ROS - SII Team</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://drive.google.com/file/d/1rdr71fel9zrHVMBo07xaHMUJ6nhjiN6i/view?usp=sharing&amp;usp=embed_facebook</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 09:19:16</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_356">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/356/view.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://drive.google.com/file/d/1rdr71fel9zrHVMBo07xaHMUJ6nhjiN6i/view</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 09:19:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/florianleon/StageSII">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leon</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>DataFusion</dc:title>
+        <dcterms:abstract>Datafusion</dcterms:abstract>
+        <dc:date>2022-08-01T09:37:42Z</dc:date>
+        <z:libraryCatalog>GitHub</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/florianleon/StageSII</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 09:38:27</dcterms:dateSubmitted>
+        <dc:description>original-date: 2022-08-01T09:36:10Z</dc:description>
+        <z:programmingLanguage>C++</z:programmingLanguage>
+    </bib:Data>
+    <bib:Document rdf:about="https://crates.io/crates/datafusion_imu">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leon</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_359"/>
+        <dc:title>datafusion_imu - crates.io: Rust Package Registry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://crates.io/crates/datafusion_imu</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 11:38:52</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_359">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/359/datafusion_imu.html"/>
+        <dc:title>datafusion_imu - crates.io: Rust Package Registry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://crates.io/crates/datafusion_imu</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 11:39:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://crates.io/crates/adafruit_nxp">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leon</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_361"/>
+        <dc:title>adafruit_nxp - crates.io: Rust Package Registry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://crates.io/crates/adafruit_nxp</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 11:39:13</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_361">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/361/adafruit_nxp.html"/>
+        <dc:title>adafruit_nxp - crates.io: Rust Package Registry</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://crates.io/crates/adafruit_nxp</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-01 11:39:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Accel&amp;Gyro</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.futura-sciences.com/tech/questions-reponses/smartphone-fonctionne-accelerometre-smartphone-14429/"/>
+        <dcterms:hasPart rdf:resource="https://www.sensel-measurement.fr/fr/14-accelerometre"/>
+        <dcterms:hasPart rdf:resource="https://fr.farnell.com/invensense/mpu-6050/gyroscope-accelero-6-axes-i2c/dp/1864742"/>
+        <dcterms:hasPart rdf:resource="https://github.com/RobTillaart/GY521"/>
+        <dcterms:hasPart rdf:resource="https://novatel.com/solutions/attitude"/>
+        <dcterms:hasPart rdf:resource="http://www.ferdinandpiette.com/blog/2011/04/le-filtre-de-kalman-interets-et-limites/"/>
+        <dcterms:hasPart rdf:resource="https://www.insee.fr/fr/metadonnees/definition/c2091"/>
+        <dcterms:hasPart rdf:resource="https://splac.fr/filtrage-numerique-dun-signal-application-a-arduino/"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>PFE</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.futura-sciences.com/tech/questions-reponses/smartphone-fonctionne-accelerometre-smartphone-14429/"/>
+        <dcterms:hasPart rdf:resource="https://www.sensel-measurement.fr/fr/14-accelerometre"/>
+        <dcterms:hasPart rdf:resource="https://fr.farnell.com/invensense/mpu-6050/gyroscope-accelero-6-axes-i2c/dp/1864742"/>
+        <dcterms:hasPart rdf:resource="https://github.com/RobTillaart/GY521"/>
+        <dcterms:hasPart rdf:resource="https://novatel.com/solutions/attitude"/>
+        <dcterms:hasPart rdf:resource="http://www.ferdinandpiette.com/blog/2011/04/le-filtre-de-kalman-interets-et-limites/"/>
+        <dcterms:hasPart rdf:resource="https://www.insee.fr/fr/metadonnees/definition/c2091"/>
+        <dcterms:hasPart rdf:resource="https://splac.fr/filtrage-numerique-dun-signal-application-a-arduino/"/>
+        <dcterms:hasPart rdf:resource="https://www.hotmcu.com/gy521-mpu6050-3axis-acceleration-gyroscope-6dof-module-p-83.html"/>
+        <dcterms:hasPart rdf:resource="https://www.adafruit.com/product/3463"/>
+        <dcterms:hasPart rdf:resource="https://www.az-delivery.de/fr/products/esp32-developmentboard"/>
+        <dcterms:hasPart rdf:resource="https://www.st.com/en/microcontrollers-microprocessors/stm32f401re.html"/>
+        <dcterms:hasPart rdf:resource="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/"/>
+        <dcterms:hasPart rdf:resource="https://www.fierceelectronics.com/components/compensating-for-tilt-hard-iron-and-soft-iron-effects"/>
+        <dcterms:hasPart rdf:resource="https://drive.google.com/file/d/1rdr71fel9zrHVMBo07xaHMUJ6nhjiN6i/view?usp=sharing&amp;usp=embed_facebook"/>
+        <dcterms:hasPart rdf:resource="https://github.com/florianleon/StageSII"/>
+        <dcterms:hasPart rdf:resource="https://crates.io/crates/datafusion_imu"/>
+        <dcterms:hasPart rdf:resource="https://crates.io/crates/adafruit_nxp"/>
+    </z:Collection>
+</rdf:RDF>
